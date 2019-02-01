@@ -10,7 +10,7 @@ assimp
 
 I'm just starting write this code ,and what i'm tring to do is to build a useful 3D engine rendering material and something intersting 
 
-press T to opengl GUI
+press T to open GUI
 
 
 //自己配置一下吧，这个东西我也刚开始写，目前正在逐步添加一些有趣的东西进去，这是目前写的，代码很混乱，希望可以给我建议，谢谢。
